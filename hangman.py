@@ -1,7 +1,7 @@
 # hangman.py
 # will green
 # 5/26/2017
-# expanded on from the hangman example in The Self-taught Programmer by Cory Althoff.
+# expanded on from the hangman example in The Self-taught Programmer by Cory Althoff
 
 import random
 from string import ascii_lowercase
