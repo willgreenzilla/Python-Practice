@@ -1,3 +1,6 @@
+# Python-Practice
+Collection of Python scripts built while working on learning Python.
+
 # hangman.py
 Simple hangman script modified from The Self Taught Programmer by Cory Althoff.
 
@@ -12,3 +15,8 @@ Added the following above what was in the original script:
 Issues:
 
 Currently only works on Linux... I need to fix random word selection in Windows still.
+
+# PlayWAR.py
+Card game example from the hangman example in The Self-Taught Programmer by Cory Althoff.
+
+Currently this simple WAR card game script is a direct copy from The Self-taught Programmer book. I plan to modify this and play around with it to continue learning Python.
